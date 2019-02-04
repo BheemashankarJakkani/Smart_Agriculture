@@ -16,6 +16,7 @@ farmers and Government to build and Maintain well structured Farming System.
 Solution
 
 Motto of our project :- One Town one crop system.
+
 This problem can be solved by Taking all farmers data into account  . this data helps
 Researchers to decide and allocate particular crop to the suitable Area . 
 This system doesn’t force farmers to cultivate suggested crop in Whole Field because 

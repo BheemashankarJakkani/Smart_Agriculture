@@ -27,3 +27,7 @@ Due to fluctuation in the crop production the price of the crops increases and d
 
 Rate of Production inversely   proportional to the price . 
 This system helps establishes stabilized production of crops . large price variation in the crops can be reduced .
+
+
+The Working Website is Available at https://annadhaata.000webhostapp.com/Smart_Agriculture/Introduction.php
+Pls Visit And Share

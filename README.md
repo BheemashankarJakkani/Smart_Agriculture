@@ -1,6 +1,4 @@
 # Smart_Agriculture
-Predicting Best Crop for the Particular Places
-
 
 Application that gives Information about Crop price, Fertilizer, Real Time Weather Report, Assistance from Experts (Group Chat) etc. 
 This Web Application has Administrator View (Agricultural Experts) and Farmer View. 
